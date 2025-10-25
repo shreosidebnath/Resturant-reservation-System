@@ -60,30 +60,9 @@ define('DB_NAME', 'restaurant_booking');
 - Password: `admin`
 
 ### Test User Login
-- Username: `Sreo`
-- Password: `password`
+- Username: `sreo`
+- Password: `123`
 
-## Project Structure
-
-```
-restaurant-booking-system/
-├── admin/
-│   ├── index.php          (Table management)
-│   ├── userlist.php       (User management)
-│   ├── goodslist.php      (Food management)
-│   └── upss.php           (Status management)
-├── config.php             (Database configuration)
-├── database.sql           (Database schema)
-├── index.php              (Home page)
-├── zhuce.php              (Registration page)
-├── login.php              (Login page)
-├── zhuowei.php            (Table list)
-├── diancan.php            (Food ordering)
-├── orderlist.php          (Order history)
-├── logout.php             (Logout)
-├── style.css              (Stylesheet)
-└── README.md              (This file)
-```
 
 ## Database Schema
 
